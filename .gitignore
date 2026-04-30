@@ -1,0 +1,14 @@
+# Large source data — not needed at runtime by the Streamlit app, only by the backtester scripts
+ETFs_1min.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
